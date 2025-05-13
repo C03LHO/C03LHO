@@ -1,8 +1,8 @@
-<!-- Presentation Banner -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I'm **Aurelio Gabriel**, a Brazilian developer 🇧🇷
+<!-- Banner de apresentação -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm **Aurelio Gabriel**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Tech+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back-End+Developer;Technology+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=C03LHO&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=C03LHO&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -22,34 +22,39 @@
 - [👨‍💻 About Me](#about-me)
 - [🛠️ Tech Stack](#-tech-stack)
 - [🏆 Experience & Projects](#experience--projects)
+- [📚 Books I've Read](#books-ive-read)
+- [📜 Certifications](#certifications)
 - [📊 GitHub Stats](#-github-stats)
 - [📫 Contact](#-contact)
-- [🙏 Acknowledgements](#-acknowledgements)
+- [🙏 Thanks](#-thanks)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Degree**: Associate's in Systems Analysis and Development – FADESA  
-- 💼 **Role**: Junior Backend Developer  
-- 📚 **Currently Studying**: Python | Go | Machine Learning | AI  
-- 🌟 **Passionate About**: Software development, tech innovation, and solving real-world problems  
+🇧🇷 I'm a Brazilian **Back-End Developer** passionate about building robust systems and scalable software.
 
-> *"Code is like poetry – not just functional, but also elegant."*
+- 🎓 **Education**: Associate Degree in Systems Analysis and Development at **FADESA**
+- 💼 **Current Role**: Junior Back-End Developer
+- 📚 **Current Studies**: Python | Go | Machine Learning | Artificial Intelligence
+- 🌟 **Interests**: Software development, technology innovation, and open-source collaboration
+- ⚡ **Fun Fact**: I love diving into new tech, learning continuously, and mentoring when I can!
+
+> *"Code is like poetry — not only functional but also elegant."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Frontend Basics
+### 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,18 +70,13 @@
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-### 📊 Productivity Tools
+### 📊 Productivity & Tools
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
@@ -84,19 +84,40 @@
 
 ### 🎮 Jabu Games
 
-> Game project developed for an academic showcase  
+> A game development project built for an academic showcase.  
 🔗 [Visit the project](https://jabu-games-exxpofadesa.netlify.app/)
+
+---
+
+## 📚 Books I've Read
+
+| Book | Author | Status |
+|------|--------|--------|
+| *Algorithms* | John Paul & Luca Massaron | 🔄 In Progress |
+| *Artificial Intelligence* | John Paul & Luca Massaron | 🔄 In Progress |
+| *Computer Networks* | Al Anderson & Ryan Benedetti | 🕒 Planned |
+
+---
+
+## 📜 Certifications
+
+| Certification | Platform | Status |
+|---------------|----------|--------|
+| Endereçamento IPv4 | Curso em Video | ✅ Completed |
+| Formação Github Certification | Dio | 🔄 In Progress |
+| CC50 | Fundação Estudar | 🔄 In Progress |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=dracula&hide_title=true&count_private=true" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=donut&theme=dracula&hide_title=true" alt="Top Languages"/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C03LHO&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C03LHO&theme=dracula" alt="Contribution Graph" />
 </p>
 
 ---
@@ -106,14 +127,14 @@
 - 📧 **Email**: [aurelio.gad.sousa@gmail.com](mailto:aurelio.gad.sousa@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/aurelio-gabriel-90b291232](https://www.linkedin.com/in/aurelio-gabriel-90b291232/)
 - 💻 **GitHub**: [github.com/C03LHO](https://github.com/C03LHO)
-- 🌐 **Freelance Platforms**:  
+- 🌐 **Profiles**:
   ![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
   ![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
   ![indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
 
 ---
 
-## 🙏 Acknowledgements
+## 🙏 Thanks
 
-Thanks for visiting my profile!  
-If you like any of my projects, don't forget to leave a ⭐, open a PR, or invite me to collaborate. 🚀
+Thank you for visiting my profile!  
+If you like any project here, don’t forget to ⭐ star it, open a PR, or invite me to collaborate. 🚀
