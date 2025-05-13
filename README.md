@@ -111,14 +111,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=dracula&hide_title=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=donut&theme=dracula&hide_title=true" alt="Top Languages"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=dracula&hide_title=true&count_private=true" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=donut&theme=dracula&hide_title=true" height="200" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=C03LHO&theme=dracula" alt="Contribution Graph" />
-</p>
+</div>
 
 ---
 
