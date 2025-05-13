@@ -38,7 +38,6 @@
 - 💼 **Current Role**: Junior Back-End Developer
 - 📚 **Current Studies**: Python | Go | Machine Learning | Artificial Intelligence
 - 🌟 **Interests**: Software development, technology innovation, and open-source collaboration
-- ⚡ **Fun Fact**: I love diving into new tech, learning continuously, and mentoring when I can!
 
 > *"Code is like poetry — not only functional but also elegant."*
 
@@ -109,21 +108,28 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=dracula&hide_title=true&count_private=true" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=donut&theme=dracula&hide_title=true" height="200" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=dracula&hide_title=true&count_private=true" 
+    width="45%" height="200" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=donut&theme=dracula&hide_title=true" 
+    width="45%" height="200" 
+    alt="Top Languages" 
+  />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C03LHO&theme=dracula" alt="Contribution Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=C03LHO&theme=dracula" 
+    alt="Contribution Graph" 
+  />
 </div>
 
 ---
