@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=C03LHO&style=flat-square&color=00ADD8" alt="Visualizações do perfil"/>
-  <a href="https://wakatime.com/@C03LHO"><img src="https://wakatime.com/badge/user/C03LHO.svg" alt="Total de tempo codando" /></a>
 </p>
 
 ---
