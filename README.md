@@ -91,7 +91,7 @@
   
   <h3>💻 SISTEMAS OPERACIONAIS</h3>
   
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vim&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" height="60" />
   
   <h3>📊 ANÁLISE & PRODUTIVIDADE</h3>
   
