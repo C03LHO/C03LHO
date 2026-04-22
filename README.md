@@ -197,49 +197,6 @@
 
 ---
 
-## 🏆 CONQUISTAS
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=C03LHO&theme=matrix&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
-</div>
-
-### 📚 JORNADA DE CONHECIMENTO
-
-<div align="center">
-  <table>
-    <tr>
-      <th>📖 RECURSO</th>
-      <th>👨‍🏫 AUTOR</th>
-      <th>📊 STATUS</th>
-      <th>⭐ IMPACTO</th>
-    </tr>
-    <tr>
-      <td><strong>Algorithms</strong></td>
-      <td>John Paul & Luca Massaron</td>
-      <td>🔄 <strong>EM PROGRESSO</strong></td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td><strong>Artificial Intelligence</strong></td>
-      <td>John Paul & Luca Massaron</td>
-      <td>🔄 <strong>EM PROGRESSO</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td><strong>Computer Networks</strong></td>
-      <td>Al Anderson & Ryan Benedetti</td>
-      <td>🎯 <strong>PLANEJADO</strong></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><strong>Clean Code</strong></td>
-      <td>Robert C. Martin</td>
-      <td>✅ <strong>CONCLUÍDO</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-  </table>
-</div>
-
 ### 🎓 CERTIFICAÇÕES & CONQUISTAS
 
 <div align="center">
