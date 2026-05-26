@@ -30,6 +30,16 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas na FADESA** (conclu
 
 ---
 
+## 🎯 Foco atual
+
+- 🐍 Aprofundando **Python** com foco em APIs e automação
+- 🐹 Estudando **Go** para sistemas concorrentes e performance
+- ☁️ Explorando **AWS** e práticas **cloud-native**
+- 🧠 Investigando **integração com IA** em aplicações reais
+- 🤝 Contribuindo em projetos **open source** para fortalecer fundamentos
+
+---
+
 ## 🧰 Stack
 
 <div align="center">
@@ -100,39 +110,18 @@ Descrição curta e objetiva do que o projeto faz e qual problema resolve.
 ---
 -->
 
-## 🎓 Formação & Certificações
-
-<div align="center">
-
-| Item | Instituição | Ano | Status |
-|---|---|---|---|
-| Tecnólogo em Análise e Desenvolvimento de Sistemas | FADESA | 2026 | 🎓 Em curso (conclusão dez/2026) |
-| Endereçamento IPv4 | Curso em Vídeo | 2023 | ✅ Concluído |
-| GitHub Certification | DIO | 2024 | 🔄 Em andamento |
-| CC50 | Fundação Estudar | 2024 | 🔄 Em andamento |
-| Python Professional | Codecademy | 2025 | 🎯 Planejado |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/C03LHO">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
-  </a>
-  <a href="https://github.com/C03LHO">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=C03LHO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=C03LHO&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
