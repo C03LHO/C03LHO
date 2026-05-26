@@ -1,7 +1,14 @@
-<h1 align="center">Aurelio Gabriel</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Aurelio%20Gabriel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%C2%B7%20Brasil&descAlignY=60&descSize=16" width="100%" alt="header" />
+</div>
 
 <p align="center">
-  <strong>Desenvolvedor Back-End</strong> · Brasil 🇧🇷<br>
+  <a href="https://github.com/C03LHO">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=600&height=45&lines=Back-End+Developer;Python+%E2%80%A2+Go+%E2%80%A2+APIs;Cloud-Native+%E2%80%A2+Distributed+Systems;Always+learning%2C+always+shipping." alt="typing" />
+  </a>
+</p>
+
+<p align="center">
   Construindo sistemas confiáveis, escaláveis e bem desenhados.
 </p>
 
@@ -126,6 +133,10 @@ Descrição curta e objetiva do que o projeto faz e qual problema resolve.
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C03LHO&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=0A66C2&line=00D4FF&point=ffffff&area=true&area_color=0A66C2" alt="Activity graph" />
+</p>
+
 ---
 
 ## 🤝 Disponível para
@@ -145,3 +156,7 @@ Descrição curta e objetiva do que o projeto faz e qual problema resolve.
   <a href="https://www.linkedin.com/in/aurelio-gabriel-90b291232/">LinkedIn</a> ·
   <a href="https://github.com/C03LHO">GitHub</a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
+</div>
