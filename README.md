@@ -110,18 +110,20 @@ Descrição curta e objetiva do que o projeto faz e qual problema resolve.
 ---
 -->
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C03LHO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/C03LHO?style=for-the-badge&logo=github&label=Followers&color=0A66C2&labelColor=1a1a1a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/C03LHO?style=for-the-badge&logo=github&label=Stars&color=FFC107&labelColor=1a1a1a" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=C03LHO&style=for-the-badge&color=00D4FF&label=Profile+Views&labelColor=1a1a1a" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C03LHO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=C03LHO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C03LHO/C03LHO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C03LHO/C03LHO/output/github-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/C03LHO/C03LHO/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
