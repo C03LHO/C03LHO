@@ -16,7 +16,7 @@
   <a href="mailto:aurelio.gad.sousa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/aurelio-gabriel-90b291232/">
+  <a href="https://www.linkedin.com/in/aurelio-sousa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/C03LHO">
@@ -153,7 +153,7 @@ Descrição curta e objetiva do que o projeto faz e qual problema resolve.
 
 <p align="center">
   <a href="mailto:aurelio.gad.sousa@gmail.com">aurelio.gad.sousa@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/aurelio-gabriel-90b291232/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aurelio-sousa/">LinkedIn</a> ·
   <a href="https://github.com/C03LHO">GitHub</a>
 </p>
 
